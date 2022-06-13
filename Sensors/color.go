@@ -2,7 +2,7 @@ package Sensors
 
 import (
 	"fmt"
-	"github.com/ldmberman/GoEV3/utilities"
+	"github.com/LogVox/GoEV3/utilities"
 )
 
 // Color sensor type.
